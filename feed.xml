@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>ТІА</title>
-    <link href="https://artol1a.github.io/tea/feed.xml" rel="self" />
-    <link href="https://artol1a.github.io/tea" />
-    <updated>1970-01-01T03:00:00+03:00</updated>
+    <link href="https://artoliia.qd.je/feed.xml" rel="self" />
+    <link href="https://artoliia.qd.je" />
+    <updated>2026-05-17T17:45:23+03:00</updated>
     <author>
         <name>к4</name>
     </author>
-    <id>https://artol1a.github.io/tea</id>
+    <id>https://artoliia.qd.je</id>
 
+    <entry>
+        <title>ТЕСТ</title>
+        <author>
+            <name>к4</name>
+        </author>
+        <link href="https://artoliia.qd.je/test.html"/>
+        <id>https://artoliia.qd.je/test.html</id>
+
+        <updated>2026-05-17T17:45:23+03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Тестова новина
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Тестова новина</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

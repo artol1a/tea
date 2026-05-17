@@ -2,12 +2,26 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "ТІА",
     "description": "",
-    "home_page_url": "https://artol1a.github.io/tea",
-    "feed_url": "https://artol1a.github.io/tea/feed.json",
+    "home_page_url": "https://artoliia.qd.je",
+    "feed_url": "https://artoliia.qd.je/feed.json",
     "user_comment": "",
     "author": {
         "name": "к4"
     },
     "items": [
+        {
+            "id": "https://artoliia.qd.je/test.html",
+            "url": "https://artoliia.qd.je/test.html",
+            "title": "ТЕСТ",
+            "summary": "Тестова новина",
+            "content_html": "<p>Тестова новина</p>",
+            "author": {
+                "name": "к4"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-17T17:45:23+03:00",
+            "date_modified": "2026-05-17T17:45:23+03:00"
+        }
     ]
 }
