@@ -3,12 +3,41 @@
     <title>ТІА</title>
     <link href="https://artoliia.qd.je/feed.xml" rel="self" />
     <link href="https://artoliia.qd.je" />
-    <updated>2026-05-17T22:11:30+03:00</updated>
+    <updated>2026-05-17T22:14:44+03:00</updated>
     <author>
         <name>ТІА</name>
     </author>
     <id>https://artoliia.qd.je</id>
 
+    <entry>
+        <title>Тест 2</title>
+        <author>
+            <name>ТІА</name>
+        </author>
+        <link href="https://artoliia.qd.je/test-2/"/>
+        <id>https://artoliia.qd.je/test-2/</id>
+
+        <updated>2026-05-17T22:14:44+03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Тестова новина 2 Тестова новина 2 Тестова новина 2 Тестова новина 2 Тестова новина 2 Тестова новина 2 Тестова новина 2 Тестова новина 2 Тестова новина 2 Тестова новина 2 Тестова новина 2 Тестова новина 2 Тестова новина 2 Тестова новина 2 Тестова новина 2&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Тестова новина 2</p>
+<p>Тестова новина 2</p>
+<p>Тестова новина 2</p>
+<p>Тестова новина 2</p>
+<p>Тестова новина 2</p>
+<p>Тестова новина 2</p>
+<p>Тестова новина 2</p>
+<p>Тестова новина 2</p>
+<p>Тестова новина 2</p>
+<p>Тестова новина 2<br>Тестова новина 2<br>Тестова новина 2<br>Тестова новина 2<br>Тестова новина 2<br>Тестова новина 2<br>Тестова новина 2</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>ТЕСТ</title>
         <author>
