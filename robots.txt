@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://artol1a.github.io/tea/sitemap.xml
